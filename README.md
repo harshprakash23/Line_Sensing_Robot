@@ -11,9 +11,12 @@ This project is an Arduino-based line following and obstacle avoiding robot. It 
 
 ### System Overview
 
-![Block Diagram 1](Line_sensing/block_diagram_1.png)
+<img width="889" height="680" alt="image" src="https://github.com/user-attachments/assets/dd33e85e-33bb-42f3-bef3-37b20eab0fae" />
 
-![Block Diagram 2](Line_sensing/block_diagram_2.png)
+
+
+<img width="901" height="689" alt="image" src="https://github.com/user-attachments/assets/1545adce-d33f-465d-8c49-51b287cdfb49" />
+
 
 ## Circuit Description
 - **IR Sensors:** Detect the line or edge and send digital signals to the Arduino.
